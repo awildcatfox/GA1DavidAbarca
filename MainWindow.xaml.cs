@@ -23,6 +23,7 @@ namespace GA1DavidAbarca
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("My name is David Abarca and I want to get a high paying career when I graduate!(become a pro esports player or a pro artist)");
         }
     }
 }
